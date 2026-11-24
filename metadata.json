@@ -1,0 +1,6 @@
+{
+  "name": "Code Explainer AI",
+  "description": "Upload or paste source code, choose a programming language and explanation level, and get structured AI explanations with follow-up Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
